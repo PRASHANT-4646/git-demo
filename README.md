@@ -1,3 +1,3 @@
 # git-demo
 
-Auther-Prashant Chaudhary
+Auther-Prashant verma
